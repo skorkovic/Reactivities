@@ -7360,6 +7360,16 @@
   dependencies:
     "minimist" "^1.2.5"
 
+"mobx-react-lite@^3.2.2":
+  "integrity" "sha512-FxJJMqmHcnQYOVVs2DdjNHioGlFsXF5/9VHztS9NAfIT3DYrxNZzVi119Zr/OmlWKkWNkAsssSNzPkqautfL4A=="
+  "resolved" "https://registry.npmjs.org/mobx-react-lite/-/mobx-react-lite-3.2.2.tgz"
+  "version" "3.2.2"
+
+"mobx@^6.1.0", "mobx@^6.3.9":
+  "integrity" "sha512-u9vhETRPgx6s+MD2NhGaOQJMJa/qszflwFxKryCXotERWY77ocdrRQUp7Jwt1urjefUXNj3fQbTnKrCV+kBaXw=="
+  "resolved" "https://registry.npmjs.org/mobx/-/mobx-6.3.9.tgz"
+  "version" "6.3.9"
+
 "move-concurrently@^1.0.1":
   "integrity" "sha1-viwAX9oy4LKa8fBdfEszIUxwH5I="
   "resolved" "https://registry.npmjs.org/move-concurrently/-/move-concurrently-1.0.1.tgz"
